@@ -1,24 +1,12 @@
-# animations-vue
+# Math Quiz with Vue JS 2
+A simple example in how to create a Quiz with Vue JS 2.  
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Resources
+- 2way Databind
+- Methods
+- Components  
+- Animations  
+- Transitions  
+  
+# Let's Play
+You can test it by [clicking here](http://progtisolucoes.com.br/mathquiz/)
